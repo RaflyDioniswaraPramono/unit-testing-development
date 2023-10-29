@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "title": "Sewu Dino",
+    "genres": "Horror"
+  },
+  {
+    "id": 2,
+    "title": "The Childe",
+    "genres": "Drama"
+  },
+  {
+    "id": 3,
+    "title": "Mangku Jiwo 2",
+    "genres": "Horror"
+  },
+  {
+    "id": 4,
+    "title": "Skycraper",
+    "genres": "Fantasy"
+  },
+  {
+    "id": 5,
+    "title": "Blackchat",
+    "genres": "Action"
+  }
+]
